@@ -2,6 +2,7 @@
 
 - A responsive design project for mobile and desktop.
 - Feel free to switch between Dark and light mode.
+- don't open it from a dark mode browser directly, project has its dark mode model.
 - Project made with react.js, Tailwind(npm install tailwindcss @tailwindcss/vite), Daisyui(npm i -D daisyui@latest).
 - Icons from Fontawesome so install it or run ('npm i' to install all the requirements).
 - Don't forget to add the daisyui plugin to Tailwind and import tailwind in css!
