@@ -23,39 +23,39 @@ function TodoList() {
                     </label>
                 ))}
             </div>
-            <a class="flex flex-row pt-5 px-7 items-start gap-3" href="#">
-                <img class="w-auto h-7 rounded-full outline-black outline-2 outline-offset-2 outline-solid" src="/personimg.png" alt="" />
-                <div class="flex flex-col">
-                    <p class="">You have a bug that needs to be fixed.</p>
-                    <span class="text-sm text-gray-400">just now</span>
+            <a className="flex flex-row pt-5 px-7 items-start gap-3" href="#">
+                <img className="w-auto h-7 rounded-full outline-black outline-2 outline-offset-2 outline-solid" src="/personimg.png" alt="" />
+                <div className="flex flex-col">
+                    <p className="">You have a bug that needs to be fixed.</p>
+                    <span className="text-sm text-gray-400">just now</span>
                 </div>
             </a>
-            <a class="flex flex-row pt-2 px-7 items-start gap-3" href="#">
-                <img class="w-auto h-7 rounded-full outline-black outline-2 outline-offset-2 outline-solid" src="https://img.daisyui.com/images/profile/demo/batperson@192.webp" alt="" />
-                <div class="flex flex-col">
-                    <p class="">Released a new version</p>
-                    <span class="text-sm text-gray-400">59 minutes ago</span>
+            <a className="flex flex-row pt-2 px-7 items-start gap-3" href="#">
+                <img className="w-auto h-7 rounded-full outline-black outline-2 outline-offset-2 outline-solid" src="https://img.daisyui.com/images/profile/demo/batperson@192.webp" alt="" />
+                <div className="flex flex-col">
+                    <p className="">Released a new version</p>
+                    <span className="text-sm text-gray-400">59 minutes ago</span>
                 </div>
             </a>
-            <a class="flex flex-row pt-2 px-7 items-start gap-3" href="#">
-                <img class="w-auto h-7 rounded-full outline-black outline-2 outline-offset-2 outline-solid" src="https://img.daisyui.com/images/profile/demo/averagebulk@192.webp" alt="" />
-                <div class="flex flex-col">
-                    <p class="">Submitted a bug</p>
-                    <span class="text-sm text-gray-400">12 hours ago</span>
+            <a className="flex flex-row pt-2 px-7 items-start gap-3" href="#">
+                <img className="w-auto h-7 rounded-full outline-black outline-2 outline-offset-2 outline-solid" src="https://img.daisyui.com/images/profile/demo/averagebulk@192.webp" alt="" />
+                <div className="flex flex-col">
+                    <p className="">Submitted a bug</p>
+                    <span className="text-sm text-gray-400">12 hours ago</span>
                 </div>
             </a>
-            <a class="flex flex-row pt-2 px-7 items-start gap-3" href="#">
-                <img class="w-auto h-7 rounded-full outline-black outline-2 outline-offset-2 outline-solid" src="/personimg.png" alt="" />
-                <div class="flex flex-col">
-                    <p class="">Modified A data in Page X</p>
-                    <span class="text-sm text-gray-400">Today, 11.59 Am</span>
+            <a className="flex flex-row pt-2 px-7 items-start gap-3" href="#">
+                <img className="w-auto h-7 rounded-full outline-black outline-2 outline-offset-2 outline-solid" src="/personimg.png" alt="" />
+                <div className="flex flex-col">
+                    <p className="">Modified A data in Page X</p>
+                    <span className="text-sm text-gray-400">Today, 11.59 Am</span>
                 </div>
             </a>
-            <a class="flex flex-row pt-2 px-7 items-start gap-3" href="#">
-                <img class="w-auto h-7 rounded-full outline-black outline-2 outline-offset-2 outline-solid" src="https://img.daisyui.com/images/profile/demo/spiderperson@192.webp" alt="" />
-                <div class="flex flex-col">
-                    <p class="">Modified A data in Project X</p>
-                    <span class="text-sm text-gray-400">Feb 2, 2025</span>
+            <a className="flex flex-row pt-2 px-7 items-start gap-3" href="#">
+                <img className="w-auto h-7 rounded-full outline-black outline-2 outline-offset-2 outline-solid" src="https://img.daisyui.com/images/profile/demo/spiderperson@192.webp" alt="" />
+                <div className="flex flex-col">
+                    <p className="">Modified A data in Project X</p>
+                    <span className="text-sm text-gray-400">Feb 2, 2025</span>
                 </div>
             </a>
         </div>

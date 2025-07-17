@@ -12,10 +12,10 @@ function App() {
     //const [count, setCount] = useState(0)
     return (
         <>
-            <div className="h-screen bg-base-100">
-            <div class="flex h-screen overflow-y-auto bg-gray-100">
+            <div className="flex-wrap flex h-screen bg-base-100">
+            <div className="flex h-screen overflow-y-auto bg-gray-100">
                 <LeftSideBar />
-                <div class="flex flex-1 flex-col overflow-y-auto bg-gray-100">
+                <div className="flex flex-1 flex-col overflow-y-auto bg-gray-100">
                     <NavBar />
                     <MenuAndStat />
                     <div className="flex h-screen bg-gray-100">

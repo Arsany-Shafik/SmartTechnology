@@ -1,8 +1,9 @@
 import { useEffect, useState } from "react";
-import axios from "../../node_modules/axios/index";
+import axios from "axios";
 
 function Table() {
     const [sessions, setSessions] = useState([]);
+
     useEffect(() => {
         axios.get(`https://scopey.onrender.com/api/session/sessions`, {
             headers: {
@@ -10,7 +11,7 @@ function Table() {
             }
         })
             .then((response) => {
-                console.log(response.status, response.data.sessions);
+                console.log(response.status, response);
                 setSessions(response.data.sessions);
             })
             .catch(function (error) {
@@ -24,32 +25,41 @@ function Table() {
                     console.log('Error: ', error.message);
                 }
             });
-    }, []); 
+    }, []);
+
     return (
         <div className="p-7 pt-10 bg-base-200">
-            <h3 className="text-xl font-bold">Project Spendings</h3>
-            <div name="tabs" className="tabs tabs-border flex justify-evenly ">
-                <div className="p-3 font-medium">Code</div>
-                <div className="p-3 font-medium">Status</div>
-                <div className="p-3 font-medium">Payment Status</div>
-                <div className="p-3 font-medium">service</div>
-                <div className="p-3 font-medium">Created At</div>
+            <h3 className="text-xl font-bold mb-4">Project Spendings</h3>
+
+            {/* Header Tabs */}
+            <div className="hidden md:grid grid-cols-5 gap-4 bg-base-100 rounded-lg p-4 mb-4 text-sm font-medium text-gray-700">
+                <div>Code</div>
+                <div>Status</div>
+                <div>Payment Status</div>
+                <div>Service</div>
+                <div>Created At</div>
             </div>
+
             {sessions.length === 0 ? (
-                <p className="p-7  text-gray-500">Loading or no data available.</p>
+                <p className="text-gray-500">Loading or no data available.</p>
             ) : (
-                    sessions.slice(0, 10).map((session, index) => (
-                        <div key={index} className="flex justify-evenly overflow-x-hidden border-b border-gray-300 p-3 text-sm">
-                        <div className="">{session.code || 'Sorry ! *No info in Database*'}</div>
-                        <div className="">{session.status || 'Sorry ! *No info in Database*'}</div>
-                        <div className="">{session.paymentStatus || 'Sorry ! *No info in Database*'}</div>
-                        <div className="">{session.service || 'Sorry ! *No info in Database*'}</div>
-                        <div className="">{new Date(session.createdAt).toLocaleDateString() || 'Sorry ! *No info in Database*' }</div>
-                    </div>
-                ))
+                <div className="space-y-4">
+                    {sessions.slice(0, 10).map((session, index) => (
+                        <div
+                            key={index}
+                            className="md:grid md:grid-cols-5 flex flex-col gap-2 md:gap-4 p-4 bg-white shadow rounded-lg text-sm"
+                        >
+                            <div className="break-all">{session.code || 'No info'}</div>
+                            <div className="break-all">{session.status || 'No info'}</div>
+                            <div className="break-all">{session.paymentStatus || 'No info'}</div>
+                            <div className="break-all">{session.service || 'No info'}</div>
+                            <div className="break-all">{new Date(session.createdAt).toLocaleDateString() || 'No info'}</div>
+                        </div>
+                    ))}
+                </div>
             )}
         </div>
-  );
+    );
 }
 
 export default Table;
