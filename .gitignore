@@ -22,3 +22,21 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+# Build & Debug
+*.log
+*.tsbuildinfo
+*.tmp
+*.cache
+*.obj
+*.exe
+*.dll
+*.pdb
+bin/
+obj/
+Debug/
+Release/
+out/
