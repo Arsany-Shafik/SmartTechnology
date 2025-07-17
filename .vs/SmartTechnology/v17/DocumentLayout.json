@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects VS\\SmartTechnology\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3382551F-300F-00E2-E1A5-6674F934C2BC}|smarttechnology.esproj|d:\\projects vs\\smarttechnology\\src\\components\\table.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3382551F-300F-00E2-E1A5-6674F934C2BC}|smarttechnology.esproj|solutionrelative:src\\components\\table.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3382551F-300F-00E2-E1A5-6674F934C2BC}|smarttechnology.esproj|d:\\projects vs\\smarttechnology\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3382551F-300F-00E2-E1A5-6674F934C2BC}|smarttechnology.esproj|solutionrelative:src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3382551F-300F-00E2-E1A5-6674F934C2BC}|smarttechnology.esproj|d:\\projects vs\\smarttechnology\\src\\components\\todolist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3382551F-300F-00E2-E1A5-6674F934C2BC}|smarttechnology.esproj|solutionrelative:src\\components\\todolist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3382551F-300F-00E2-E1A5-6674F934C2BC}|smarttechnology.esproj|d:\\projects vs\\smarttechnology\\src\\components\\latestfiles.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3382551F-300F-00E2-E1A5-6674F934C2BC}|smarttechnology.esproj|solutionrelative:src\\components\\latestfiles.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3382551F-300F-00E2-E1A5-6674F934C2BC}|smarttechnology.esproj|d:\\projects vs\\smarttechnology\\src\\components\\navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3382551F-300F-00E2-E1A5-6674F934C2BC}|smarttechnology.esproj|solutionrelative:src\\components\\navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3382551F-300F-00E2-E1A5-6674F934C2BC}|smarttechnology.esproj|d:\\projects vs\\smarttechnology\\src\\components\\menuandstat.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3382551F-300F-00E2-E1A5-6674F934C2BC}|smarttechnology.esproj|solutionrelative:src\\components\\menuandstat.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3382551F-300F-00E2-E1A5-6674F934C2BC}|smarttechnology.esproj|d:\\projects vs\\smarttechnology\\src\\components\\leftsidebar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3382551F-300F-00E2-E1A5-6674F934C2BC}|smarttechnology.esproj|solutionrelative:src\\components\\leftsidebar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3382551F-300F-00E2-E1A5-6674F934C2BC}|smarttechnology.esproj|d:\\projects vs\\smarttechnology\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3382551F-300F-00E2-E1A5-6674F934C2BC}|smarttechnology.esproj|solutionrelative:vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3382551F-300F-00E2-E1A5-6674F934C2BC}|smarttechnology.esproj|d:\\projects vs\\smarttechnology\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3382551F-300F-00E2-E1A5-6674F934C2BC}|smarttechnology.esproj|solutionrelative:src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3382551F-300F-00E2-E1A5-6674F934C2BC}|smarttechnology.esproj|d:\\projects vs\\smarttechnology\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3382551F-300F-00E2-E1A5-6674F934C2BC}|smarttechnology.esproj|solutionrelative:src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3382551F-300F-00E2-E1A5-6674F934C2BC}|smarttechnology.esproj|d:\\projects vs\\smarttechnology\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3382551F-300F-00E2-E1A5-6674F934C2BC}|smarttechnology.esproj|solutionrelative:src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3382551F-300F-00E2-E1A5-6674F934C2BC}|smarttechnology.esproj|d:\\projects vs\\smarttechnology\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3382551F-300F-00E2-E1A5-6674F934C2BC}|smarttechnology.esproj|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.jsx",
+              "DocumentMoniker": "D:\\Projects VS\\SmartTechnology\\src\\App.jsx",
+              "RelativeDocumentMoniker": "src\\App.jsx",
+              "ToolTip": "D:\\Projects VS\\SmartTechnology\\src\\App.jsx",
+              "RelativeToolTip": "src\\App.jsx",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-16T17:15:48.06Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Table.jsx",
+              "DocumentMoniker": "D:\\Projects VS\\SmartTechnology\\src\\Components\\Table.jsx",
+              "RelativeDocumentMoniker": "src\\Components\\Table.jsx",
+              "ToolTip": "D:\\Projects VS\\SmartTechnology\\src\\Components\\Table.jsx",
+              "RelativeToolTip": "src\\Components\\Table.jsx",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-17T13:22:10.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoList.jsx",
+              "DocumentMoniker": "D:\\Projects VS\\SmartTechnology\\src\\Components\\TodoList.jsx",
+              "RelativeDocumentMoniker": "src\\Components\\TodoList.jsx",
+              "ToolTip": "D:\\Projects VS\\SmartTechnology\\src\\Components\\TodoList.jsx",
+              "RelativeToolTip": "src\\Components\\TodoList.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-17T12:00:57.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LatestFiles.jsx",
+              "DocumentMoniker": "D:\\Projects VS\\SmartTechnology\\src\\Components\\LatestFiles.jsx",
+              "RelativeDocumentMoniker": "src\\Components\\LatestFiles.jsx",
+              "ToolTip": "D:\\Projects VS\\SmartTechnology\\src\\Components\\LatestFiles.jsx",
+              "RelativeToolTip": "src\\Components\\LatestFiles.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-17T13:05:50.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuAndStat.jsx",
+              "DocumentMoniker": "D:\\Projects VS\\SmartTechnology\\src\\Components\\MenuAndStat.jsx",
+              "RelativeDocumentMoniker": "src\\Components\\MenuAndStat.jsx",
+              "ToolTip": "D:\\Projects VS\\SmartTechnology\\src\\Components\\MenuAndStat.jsx",
+              "RelativeToolTip": "src\\Components\\MenuAndStat.jsx",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwCQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-17T08:21:57.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavBar.jsx",
+              "DocumentMoniker": "D:\\Projects VS\\SmartTechnology\\src\\Components\\NavBar.jsx",
+              "RelativeDocumentMoniker": "src\\Components\\NavBar.jsx",
+              "ToolTip": "D:\\Projects VS\\SmartTechnology\\src\\Components\\NavBar.jsx",
+              "RelativeToolTip": "src\\Components\\NavBar.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-17T06:45:31.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LeftSideBar.jsx",
+              "DocumentMoniker": "D:\\Projects VS\\SmartTechnology\\src\\Components\\LeftSideBar.jsx",
+              "RelativeDocumentMoniker": "src\\Components\\LeftSideBar.jsx",
+              "ToolTip": "D:\\Projects VS\\SmartTechnology\\src\\Components\\LeftSideBar.jsx",
+              "RelativeToolTip": "src\\Components\\LeftSideBar.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-17T06:20:06.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.css",
+              "DocumentMoniker": "D:\\Projects VS\\SmartTechnology\\src\\App.css",
+              "RelativeDocumentMoniker": "src\\App.css",
+              "ToolTip": "D:\\Projects VS\\SmartTechnology\\src\\App.css",
+              "RelativeToolTip": "src\\App.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-16T17:54:35.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "index.css",
+              "DocumentMoniker": "D:\\Projects VS\\SmartTechnology\\src\\index.css",
+              "RelativeDocumentMoniker": "src\\index.css",
+              "ToolTip": "D:\\Projects VS\\SmartTechnology\\src\\index.css",
+              "RelativeToolTip": "src\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-16T17:36:09.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\Projects VS\\SmartTechnology\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "D:\\Projects VS\\SmartTechnology\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-16T17:15:10.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "styles.css",
+              "DocumentMoniker": "D:\\Projects VS\\SmartTechnology\\src\\styles.css",
+              "RelativeDocumentMoniker": "src\\styles.css",
+              "ToolTip": "D:\\Projects VS\\SmartTechnology\\src\\styles.css",
+              "RelativeToolTip": "src\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-16T17:14:39.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "D:\\Projects VS\\SmartTechnology\\vite.config.js",
+              "RelativeDocumentMoniker": "vite.config.js",
+              "ToolTip": "D:\\Projects VS\\SmartTechnology\\vite.config.js",
+              "RelativeToolTip": "vite.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-16T17:13:17.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
