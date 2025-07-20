@@ -1,5 +1,5 @@
 # React + Vite Smart Technology Task
-
+Snow UI
 - A responsive design project for mobile and desktop.
 - Feel free to switch between Dark and light mode.
 - Don't open it from a dark mode browser directly, project has its dark mode model.
